@@ -48,3 +48,5 @@ plt.legend(['Observado',
            'Regressão Linear',
            'Árvore Total',
            'Árvore Max Depth = 2'])
+
+# %%
