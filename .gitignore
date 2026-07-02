@@ -1,5 +1,6 @@
 *.xlsx
 *.parquet
 *.csv
+*.db
 mlartifacts
 mlruns
